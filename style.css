@@ -19,3 +19,12 @@ body {
   bottom: 0;
   left: 50px;
 }
+
+.obstacle {
+  width: 50px;
+  height: 50px;
+  background-color: green; /* цвет препятствия, можно заменить на изображение */
+  position: absolute;
+  bottom: 0;
+  right: 0;
+}
